@@ -29,6 +29,12 @@ This demo application showcases:
 - **Android Device/Emulator:** Running API Level 21 (Lollipop) or above.
 - **Google Play Services:** Required for location services.
 
+## Download APK
+
+Click below to download the latest version of the app:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](APK/app-debug.apk)
+
 ## Getting Started
 
 ### 1. Clone the Repository
